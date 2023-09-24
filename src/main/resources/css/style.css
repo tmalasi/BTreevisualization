@@ -1,0 +1,37 @@
+.orderText {
+    -fx-font-weight: bold;
+    -fx-text-fill: purple;
+}
+.numberText {
+    -fx-font-weight: bold;
+    -fx-text-fill: purple;
+}
+.insertButton {
+    -fx-background-color: #EFB7E0;
+    -fx-background-radius: 4;
+    -fx-font-size: 12;
+    -fx-text-fill: black;
+    -fx-border-color: purple;
+    -fx-border-radius: 3;
+    -fx-border-width: 1;
+}
+
+.deleteButton {
+    -fx-background-color: #EFB7E0;
+    -fx-background-radius: 4;
+    -fx-font-size: 12;
+    -fx-text-fill: black;
+    -fx-border-color: purple;
+    -fx-border-radius: 3;
+    -fx-border-width: 1;
+}
+
+.clearScreenButton {
+    -fx-background-color: #EFB7E0;
+    -fx-background-radius: 4;
+    -fx-font-size: 12;
+    -fx-text-fill: black;
+    -fx-border-color: purple;
+    -fx-border-radius: 3;
+    -fx-border-width: 1;
+}
